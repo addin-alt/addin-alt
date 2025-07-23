@@ -34,10 +34,9 @@ I enjoy **teaching** programming and science, providing guidance to students fro
 
 I am always open to **collaborations**, **discussions**, and **knowledge-sharing**. Please feel free to reach out to me:
 
-- 📫 **Email**: [aadd.inn1824@gmail.com](mailto:aadd.inn1824@gmail.com)
+- 📫 **Email**: [info.addincse@gmail.com](mailto:info.addincse@gmail.com)
 - 📱 **Phone**: +880 1568-924935
-- 🌐 **LinkedIn**: [Addin's LinkedIn Profile](https://www.linkedin.com/in/addin-al-031036350/)
-- 🐦 **Twitter/X**: [@addinAl](https://twitter.com/addinAl)
+- 🌐 **LinkedIn**: [addin-alt](https://www.linkedin.com/in/addin-alt/)
 
 ## ⚡ Fun Fact
 
