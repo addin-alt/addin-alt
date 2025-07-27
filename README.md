@@ -1,23 +1,30 @@
- <b>Currently Exploring:<B> <BR>
+<h1 align="center">Hi 👋, I'm Addin</h1>
+<h3 align="center">CSE Student | Aspiring AI/ML Engineer | Passionate Learner | Problem Solver</h3>
 
-🖥️ Operating Systems
-🌐 WordPress Development
-🧠 Computer Architecture
-☕ Java Programming
-🧩 System Analysis and Design
+<p align="center">
+  <img src="https://img.shields.io/badge/-AI/ML-00BFFF?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Coding-4CAF50?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OpenSource-FF5733?style=flat-square&logo=github&logoColor=white" />
+</p>
 
-<b> Highlighted Projects:<b><br><BR>
-💊 Pharmacy Management System (Java):
+## About Me 💡
+
+It has always been my passion to **learn new things**, **explore innovative ideas**, and focus on **self-development**. I am driven by a curiosity to understand how things work, and my journey into **Computer Science**—especially **AI** and **Machine Learning**—has been fueled by this fascination. 
+
+I believe that **learning is a never-ending process**, and I'm always looking for ways to expand my knowledge and solve real-world problems with technology. I am dedicated to improving my skills, whether through formal education, personal projects, or engaging with the tech community. My goal is to grow both as a developer and a problem solver. 🌱
+<br><br>
+<b>  Highlighted Projects:<b><br>
+1. Pharmacy Management System (Java):
 A complete system to manage pharmacy operations efficiently.<BR>
-🛒 Shopping Cart Application:
+2. Shopping Cart Application:
 A basic e-commerce platform with product management and checkout functionalities.<BR>
-🔐 Password Strength Checker:
+3.  Password Strength Checker:
 A tool to analyze password strength and suggest improvements for better security.<BR>
-🎉 Event Management System (.NET Core MVC):
-A web-based platform to create, manage, and display events using ASP.NET Core MVC and Entity Framework.
+4.  Event Management System (.NET Core MVC)
+5.  Inventory Management System
+A web-based platform to create, manage, and display products/items using ASP.NET Core MVC and EF.
 
-
-## 🌐 Socials:
+## Let's Connect:
 [![Al Addin](https://img.shields.io/badge/Al%20Addin-%231877F2.svg?logo=facebook&logoColor=white)](https://facebook.com/addin_alt) 
 [![Addin](https://img.shields.io/badge/Addin-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/addin_alt) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&label=)](https://linkedin.com/in/addin-alt) 
@@ -25,9 +32,9 @@ A web-based platform to create, manage, and display events using ASP.NET Core MV
 
 
 
-# 💻 Tech Stack:
+# Tech Stack:
 
-### 🧑‍💻 Programming Languages
+### Programming Languages
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -39,7 +46,7 @@ A web-based platform to create, manage, and display events using ASP.NET Core MV
 
 ---
 
-### 🌐 Web & App Development
+### Web & App Development
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)
@@ -47,20 +54,20 @@ A web-based platform to create, manage, and display events using ASP.NET Core MV
 
 ---
 
-### 🗃️ Database & Backend
+### Database & Backend
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ---
 
-### 📊 Data Science & Machine Learning
+### Data Science & Machine Learning
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 ---
 
-### 🛠️ Tools & Platforms
+### Tools & Platforms
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
@@ -69,7 +76,7 @@ A web-based platform to create, manage, and display events using ASP.NET Core MV
 
 ---
 
-### ⚙️ Hardware & Other Tech
+###  Hardware & Other Tech
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=opengl&style=for-the-badge&logoColor=black)
 ![nVIDIA](https://img.shields.io/badge/NVIDIA-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white)
@@ -78,10 +85,3 @@ A web-based platform to create, manage, and display events using ASP.NET Core MV
 
 
 
-# 📊 GitHub Stats:
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AddinAl&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=AddinAl&icon=0&color=0)](https://visitcount.itsvg.in)
