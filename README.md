@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Addin</h1>
-<h3 align="center">CSE Student | Aspiring AI/ML Engineer | Passionate Learner | Problem Solver</h3>
+<h1 align="center">Hi , I'm Addin</h1>
+<h3 align="center">| Web & Software Developer | AI/ML Engineer |
+| Problem Solver | Data Security & Vulnearability Analyst |<br>| Buliding Real World Solutions |</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-AI/ML-00BFFF?style=flat-square&logo=python&logoColor=white" />
@@ -7,22 +8,24 @@
   <img src="https://img.shields.io/badge/-OpenSource-FF5733?style=flat-square&logo=github&logoColor=white" />
 </p>
 
-## About Me 💡
+<h3>About Me</h3>Hi, I'm <b>Al Addin</b>(he/him) — a passionate learner, tech enthusiast, and problem solver. My journey into Computer Science—especially AI and Machine Learning—is fueled by curiosity, innovation, and the drive for self-development.
 
-It has always been my passion to **learn new things**, **explore innovative ideas**, and focus on **self-development**. I am driven by a curiosity to understand how things work, and my journey into **Computer Science**—especially **AI** and **Machine Learning**—has been fueled by this fascination. 
+<h3>Current Position</h3><p>💼 Chief Technology Officer (CTO) at ClickCraft Solutions
+<b><h3>Previous Experience
+</h3></b>Data Security and Vulnerability Analyst at CyberR Sys.Info Tech<br>
+Data Security Analyst at AVP Hybrid<br>
+Junior Robotics Programmer at Notre Dame Science Club<br>
+NDDC Silver Wing at Notre Dame Debating Club<br>
+<h3>Education</h3>
+🎓Studying B.Sc(Engr.) in Computer Science & Engineering at IUBAT—International University of Business Agriculture and Technology<br>
+Studying at Institute of Modern Languages, University of Dhaka<br>
+Studied at Notre Dame College, Dhaka<br>
+Went to A To Z International School<br>
+Went to Mirpur Shiddhanta High School<br>
+<h3>Passion & Interests</h3>
+I’m passionate about learning new technologies, exploring innovative ideas, and constantly improving myself. My professional focus includes AI, Machine Learning, and Cybersecurity — but I’m equally fascinated by robotics, creative problem solving, and collaborative innovation.</p>
 
-I believe that **learning is a never-ending process**, and I'm always looking for ways to expand my knowledge and solve real-world problems with technology. I am dedicated to improving my skills, whether through formal education, personal projects, or engaging with the tech community. My goal is to grow both as a developer and a problem solver. 🌱
-<br><br>
-<b>  Highlighted Projects:<b><br>
-1. Pharmacy Management System (Java):
-A complete system to manage pharmacy operations efficiently.<BR>
-2. Shopping Cart Application:
-A basic e-commerce platform with product management and checkout functionalities.<BR>
-3.  Password Strength Checker:
-A tool to analyze password strength and suggest improvements for better security.<BR>
-4.  Event Management System (.NET Core MVC)
-5.  Inventory Management System
-A web-based platform to create, manage, and display products/items using ASP.NET Core MVC and EF.
+
 
 ## Let's Connect:
 [![Al Addin](https://img.shields.io/badge/Al%20Addin-%231877F2.svg?logo=facebook&logoColor=white)](https://facebook.com/addin_alt) 
