@@ -22,7 +22,7 @@ Studied at Notre Dame College, Dhaka<br>
 <p align="center">
   <strong style="font-size: 24px;">Let's Connect:</strong><br><br>
   
-  <a href="https://facebook.com/addin_alt" target="_blank" style="margin: 0 10px;">
+  <a href="https://facebook.com/addin.alt" target="_blank" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   
