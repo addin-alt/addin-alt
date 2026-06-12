@@ -8,11 +8,6 @@
   <img src="https://img.shields.io/badge/-OpenSource-FF5733?style=flat-square&logo=github&logoColor=white" />
 </p>
 
-<h3>Current Position</h3><p>System Analyst at ClickCraft Solutions
-<b><h3>Previous Experience</h3><br>
-<p>Data Security Analyst at AVP Hybrid<br>
-Junior Robotics Programmer at Notre Dame Science Club<br>
-NDDC Silver Wing at Notre Dame Debating Club</p><br>
 <h3>Education</h3>
 🎓Studying B.Sc(Engr.) in Computer Science & Engineering at IUBAT—International University of Business Agriculture and Technology<br>
 Studying at Institute of Modern Languages, University of Dhaka<br>
